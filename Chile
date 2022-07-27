@@ -7,19 +7,19 @@
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/TVN_Chile_2016.svg/revision/latest/scale-to-width-down/340?cb=20200530033330&path-prefix=es" group-title="CHILE",TVN (CL)
 http://retroplay.io:80/eedzdgnq/MGCuKNMT/35296
 
-#EXTINF:-1 tvg-id="Canal13.cl" group-title="CHILE",Canal 13
+#EXTINF:-1 tvg-id="Canal13.cl" group-title="CHILE",Canal 13 (CL)
 http://retroplay.io:80/eedzdgnq/MGCuKNMT/35305
 
-#EXTINF:-1 tvg-id="Chilevision.cl" group-title="CHILE",Chilevisión
+#EXTINF:-1 tvg-id="Chilevision.cl" group-title="CHILE",Chilevisión (CL)
 http://retroplay.io:80/eedzdgnq/MGCuKNMT/35302
 
-#EXTINF:-1 tvg-id="Mega.cl" group-title="CHILE",Mega
+#EXTINF:-1 tvg-id="Mega.cl" group-title="CHILE",Mega (CL)
 http://retroplay.io:80/eedzdgnq/MGCuKNMT/35299
 
-#EXTINF:-1 tvg-id="LaRed.cl" group-title="CHILE",La Red
+#EXTINF:-1 tvg-id="LaRed.cl" group-title="CHILE",La Red (CL)
 http://retroplay.io:80/eedzdgnq/MGCuKNMT/35309
 
-#EXTINF:-1 tvg-id="TVMas" group-title="CHILE",TV+
+#EXTINF:-1 tvg-id="TVMas" group-title="CHILE",TV+ (CL)
 http://retroplay.io:80/eedzdgnq/MGCuKNMT/35308
 
 --NORTE--
