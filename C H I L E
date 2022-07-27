@@ -1,0 +1,8 @@
+#EXTM3U 
+
+--NACIONALES--
+
+#EXTINF:-1 tvg-id="Dummy" group-title="WORLD NEWS", --NACIONALES--
+
+#EXTINF:-1 tvg-id="TVN.cl" group-title="MISCELANEO",TVN
+http://retroplay.io:80/eedzdgnq/MGCuKNMT/35296
