@@ -2,7 +2,24 @@
 
 --NACIONALES--
 
-#EXTINF:-1 tvg-id="Dummy" group-title="WORLD NEWS", --NACIONALES--
+#EXTINF:-1 group-title="WORLD NEWS", --NACIONALES--
 
 #EXTINF:-1 tvg-id="TVN.cl" group-title="MISCELANEO",TVN
 http://retroplay.io:80/eedzdgnq/MGCuKNMT/35296
+
+--NORTE--
+
+#EXTINF:-1 group-title="WORLD NEWS", --NORTE--
+
+--CENTRO--
+
+#EXTINF:-1 group-title="WORLD NEWS", --CENTRO--
+
+--SUR--
+
+#EXTINF:-1 group-title="WORLD NEWS", --SUR--
+
+--AUSTRAL--
+
+#EXTINF:-1 group-title="WORLD NEWS", --AUSTRAL--
+
