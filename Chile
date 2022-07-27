@@ -4,8 +4,23 @@
 
 #EXTINF:-1 group-title="WORLD NEWS", --NACIONALES--
 
-#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/TVN_Chile_2016.svg/revision/latest/scale-to-width-down/340?cb=20200530033330&path-prefix=es" group-title="MISCELANEO",TVN (CL)
+#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/TVN_Chile_2016.svg/revision/latest/scale-to-width-down/340?cb=20200530033330&path-prefix=es" group-title="CHILE",TVN (CL)
 http://retroplay.io:80/eedzdgnq/MGCuKNMT/35296
+
+#EXTINF:-1 tvg-id="Canal13.cl" group-title="CHILE",Canal 13
+http://retroplay.io:80/eedzdgnq/MGCuKNMT/35305
+
+#EXTINF:-1 tvg-id="Chilevision.cl" group-title="CHILE",Chilevisión
+http://retroplay.io:80/eedzdgnq/MGCuKNMT/35302
+
+#EXTINF:-1 tvg-id="Mega.cl" group-title="CHILE",Mega
+http://retroplay.io:80/eedzdgnq/MGCuKNMT/35299
+
+#EXTINF:-1 tvg-id="LaRed.cl" group-title="CHILE",La Red
+http://retroplay.io:80/eedzdgnq/MGCuKNMT/35309
+
+#EXTINF:-1 tvg-id="TVMas" group-title="CHILE",TV+
+http://retroplay.io:80/eedzdgnq/MGCuKNMT/35308
 
 --NORTE--
 
@@ -22,3 +37,9 @@ http://retroplay.io:80/eedzdgnq/MGCuKNMT/35296
 --AUSTRAL--
 
 #EXTINF:-1 group-title="WORLD NEWS", --AUSTRAL--
+
+#EXTINF:-1 tvg-logo="https://elpinguino.com/web2012/logo.png" group-title="CHILE",Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQLaQrKBXrWNjiPHhvcoolC7jCu0oAC445frly5kQ=s900-c-k-c0x00ffffff-no-rj" group-title="CHILE",ITV Patagonia
+http://unlimited10-cl.dps.live/itv/itv.smil/playlist.m3u8
